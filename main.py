@@ -30,7 +30,7 @@ while True:
     print_esquerda("[1] Carteiras Possivelmente Incorretas (< 30 clientes)", Fore.CYAN)
     print_esquerda("[2] Analise de Carteira por Gerente", Fore.CYAN)
     print_esquerda("[3] Equipe de Vendas por Cliente", Fore.CYAN)
-    print_esquerda("[4] Painel de Gestor sem Vendedor Interno (por Gerven)", Fore.YELLOW)
+    print_esquerda("[4] Painel de Gestor sem Vendedor Interno (por Gerven)", Fore.CYAN)
     print_esquerda("[5] Analise de Carteiras Vendedores", Fore.CYAN)
     print_esquerda("", Fore.WHITE)
     print_esquerda("[0] Sair do Programa", Fore.RED)
